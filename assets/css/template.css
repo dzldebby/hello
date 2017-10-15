@@ -2645,6 +2645,12 @@ button {
     padding: 120px 0 100px;
 }
 
+.module1,
+.module-sm1 {
+    background-color: #fff;
+    padding: 120px 0 10px;
+}
+
 .module.module-gray,
 .module-sm.module-gray {
     background-color: #f7f7f7;
